@@ -1,0 +1,17 @@
+
+.icons-aligned-left{
+    margin: 0px;
+    color: 0px;
+}
+nav{
+    display: flex;
+    width: 100%;
+    height: auto;
+    padding: 25px 0px 25px 0px;
+    text-align: left;
+    text-decoration: none;
+}
+.icons-aligned-left, .nav, .ul .li .svg{
+    text-decoration: none;
+}
+.offcanvas-body
